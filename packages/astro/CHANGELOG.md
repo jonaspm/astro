@@ -1,5 +1,11 @@
 # astro
 
+## 5.7.1
+
+### Patch Changes
+
+- [#13622](https://github.com/withastro/astro/pull/13622) [`a70d32a`](https://github.com/withastro/astro/commit/a70d32a4284ef18c3f93196f44c1fcf3ff56d3d5) Thanks [@ascorbic](https://github.com/ascorbic)! - Improve autocomplete for session keys
+
 ## 5.7.0
 
 ### Minor Changes
